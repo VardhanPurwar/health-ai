@@ -918,7 +918,7 @@
             const badge = document.getElementById("api-status-badge");
             const epResult = document.getElementById("api-endpoint-result");
             try {
-                const res = await fetch("http://localhost:8000/");
+                const res = await fetch("http://98.91.19.215:8000/predict");
                 if (res.ok) {
                     badge.innerHTML = '<div class="dot"></div> Operational';
                     badge.style.color = "var(--success)";
