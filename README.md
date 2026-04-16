@@ -100,6 +100,8 @@ docker run -p 8000:8000 health-app
 <img width="1839" height="463" alt="image" src="https://github.com/user-attachments/assets/4055b577-c4e4-44d8-a474-383162dba9c2" />
 <img width="1908" height="1012" alt="image" src="https://github.com/user-attachments/assets/cab846be-3b6d-45ee-8e55-af03bb640b0b" />
 <img width="1896" height="959" alt="image" src="https://github.com/user-attachments/assets/2f3faf6c-9b87-4f91-a7b3-dc9fd897f5e0" />
+<img width="1897" height="961" alt="image" src="https://github.com/user-attachments/assets/e8bc21ed-bd27-4572-a3c0-061e20304d99" />
+
 
 ## Conclusion
 This project demonstrates how machine learning and cloud computing can be integrated to build scalable healthcare solutions. It highlights real-world deployment of an ML model using modern backend frameworks and cloud infrastructure.
