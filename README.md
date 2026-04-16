@@ -94,8 +94,8 @@ docker run -p 8000:8000 health-app
 ```
 
 ## AWS Deployment
-The application is deployed on AWS EC2 for public access.
-Amazon S3 is used for storing the trained model.
+- The application is deployed on AWS EC2 for public access.
+- Amazon S3 is used for storing the trained model.
 <img width="1905" height="856" alt="image" src="https://github.com/user-attachments/assets/bd5ac6f6-94a3-4d40-80a2-171cea16adbf" />
 <img width="1839" height="463" alt="image" src="https://github.com/user-attachments/assets/4055b577-c4e4-44d8-a474-383162dba9c2" />
 <img width="1908" height="1012" alt="image" src="https://github.com/user-attachments/assets/cab846be-3b6d-45ee-8e55-af03bb640b0b" />
